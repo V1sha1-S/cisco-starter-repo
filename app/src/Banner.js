@@ -11,4 +11,4 @@ class Banner extends Component {
     }
 }
 
-export default Banner
+export default Banner;
